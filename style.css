@@ -1,0 +1,46 @@
+abody {
+  color:sienna;
+  font-size:20px;
+}
+
+title {
+  color:sienna;
+  font-size:80px;
+}
+
+h1 {
+color:sienna;
+  text-align:center;
+  font-size:30px;
+}
+
+h2 {
+  color:sienna;
+  text-align:center;
+  font-size:45px;
+  padding:10px 10px;
+}
+
+p {
+  color:sienna;
+  text-align:center;
+}
+
+.sec-one {
+  border-style:solid;
+  border-width:1px;
+  border-color:sienna;
+}
+
+.sec-two {
+  border-style:solid;
+  border-width:1px;
+  border-color:sienna;
+}
+
+.sec-three {
+  border-style:solid;
+  border-width:1px;
+  border-color:sienna;
+}
+
