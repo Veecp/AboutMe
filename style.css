@@ -11,6 +11,12 @@ h1 {
 h2 {
 	font-size:30px;
 }
+
+h3 {
+	color:palevioletred;
+	font-size:30px;
+	text-align: center;
+}
 p{
   color:palevioletred;
 }
