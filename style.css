@@ -1,46 +1,21 @@
-abody {
-  color:sienna;
-  font-size:20px;
-}
-
-title {
-  color:sienna;
-  font-size:80px;
+body {
+  color: palevioletred;
+  background:black;
+  font-size: 27px;
 }
 
 h1 {
-color:sienna;
-  text-align:center;
-  font-size:30px;
+	text-align: center;
 }
-
 h2 {
-  color:sienna;
-  text-align:center;
-  font-size:45px;
-  padding:10px 10px;
+	font-size:40px;
 }
-
-p {
-  color:sienna;
-  text-align:center;
+p{
+  color:palevioletred;
 }
-
-.sec-one {
-  border-style:solid;
-  border-width:1px;
-  border-color:sienna;
+ol{
+  color:palevioletred;
+  ul{
+	color:palevioletred;
+  }
 }
-
-.sec-two {
-  border-style:solid;
-  border-width:1px;
-  border-color:sienna;
-}
-
-.sec-three {
-  border-style:solid;
-  border-width:1px;
-  border-color:sienna;
-}
-
