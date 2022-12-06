@@ -1,44 +1,47 @@
 body {
-  color: palevioletred;
-  background:blackrgb(33, 15, 29);
-  font-size: 27px;
+	color: palevioletred;
+	background: blackrgb(33, 15, 29);
+	font-size: 27px;
 }
 
 
 @keyframes flash {
-  0% {
-	color: red;
-  }
-  50% {
-	color: blue;
-  }
-  100% {
-	color: green;
-  }
+	0% {
+		color: blue;
+	}
+
+	50% {
+		color: blueviolet;
+	}
+
+	100% {
+		color: deeppink;
+	}
 }
 
 h1 {
-  animation: flash 1s infinite;
-}
-
-h1 {
+	animation: flash 1s infinite;
 	text-align: center;
-	
+	box-shadow: 0 0 5px 2px #ccc, 0 0 10px 4px #eee, 0 0 20px 8px #ccc, 0 0 30px 12px #eee;
 }
+
 h2 {
-	font-size:30px;
+	font-size: 30px;
 }
 
 h3 {
-	color:palevioletred;
-	font-size:30px;
+	color: palevioletred;
+	font-size: 30px;
 	text-align: center;
 }
-p{
-  color:palevioletred;
+
+p {
+	color: palevioletred;
 }
-ol{
-  color:palevioletred;
-  ul{
-	color:palevioletred;
-  }
+
+ol {
+	color: palevioletred;
+
+ul {
+		color: palevioletred;
+	}
